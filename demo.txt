@@ -1,0 +1,21 @@
+this is demo class for git version control module
+
+-- LINUX COMMANDS. (TO CREATE A FOLDER)
+$pwd  -- Present working directory
+$mkdir <directory/folder name> -- Create a new folder in desktop 
+$ls  -- the list of files that are present working directory
+$cd <directory/folder name> -- to change the directory/ to go to that particular directory
+$cd .. -- it will go to the previous directory
+$touch <file name> -- we are creating the file in that directory
+$nano <file name> -- to open the file as well as we can write the code/info
+$cat <file name> -- it will show the input in that file.
+
+-- GIT COMMANDS.
+$git status -- to check the status.
+$git init -- to initialize the empty repository
+$git add . -- to add all the files to the local repositories.
+$git add <file name> -- to add specific single file to the local repository.
+$git config user.name "NAME"  
+$git config user.email "EMAIL" -- TO CONFIGURE BOTH NAME AND EMAIL 
+$git commit -m "commit message"(like version1/2) -- for commiting files to the local repo.
+$git log -- to check the logs of commits (commit-id,nam
