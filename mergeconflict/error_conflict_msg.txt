@@ -1,0 +1,4 @@
+$ git merge bmc
+Auto-merging mergeconflict/text.txt
+CONFLICT (add/add): Merge conflict in mergeconflict/text.txt
+Automatic merge failed; fix conflicts and then commit the result.
