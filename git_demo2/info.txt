@@ -1,3 +1,11 @@
-employee_1: task_1 - write python programs
-employee_2: tast_2 - create report
-employee_3: task_3 - analyze the data
+Employee 1 (Branch: b1e1)
+Task: Create and update a Python file named employee1.py.
+Add a simple function that prints employee details.
+
+Employee 2 (Branch: b2e2)
+Task: Create and update a CSV file named employee2.csv.
+Store employee ID, Name, and Department data.
+
+Employee 3 (Branch: b3e3)
+Task: Create and update a text file named employee3.txt.
+Write a short project status report.
